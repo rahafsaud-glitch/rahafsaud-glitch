@@ -51,8 +51,9 @@ I'm a frontend developer based in **Syria**, passionate about crafting interacti
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rahafsaud-glitch&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahafsaud-glitch&layout=compact&theme=default&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=rahafsaud-glitch&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahafsaud-glitch&layout=compact&theme=default&hide_border=true&langs_count=6&cache_seconds=1800" />
 
 </div>
 
