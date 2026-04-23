@@ -55,12 +55,15 @@ I'm a frontend developer based in **Syria**, passionate about crafting interacti
 
 </div>
 
----
 
+
+---
 ## Featured projects
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
+| [**ESchool-AdminDashboard**](https://github.com/rahafsaoud/ESchool-AdminDashboard) | **[In Progress]** A comprehensive management system for educational institutions. Features multi-process tracking, student/teacher data management, and administrative controls. | React, Vite, JavaScript, Tailwind |
+| [**ESchool-LandingPage**](https://github.com/rahafsaoud/ESchool-LandingPage) | A high-conversion, responsive landing page for the ESchool platform, featuring smooth animations and a clean, professional UI to showcase educational services. | React, Vite, JavaScript, Tailwind |
 | [**Connect-4-4-Game**](https://github.com/rahafsaud-glitch/Connect-4-4-Game) | Interactive Connect 4×4 game with 2-player mode, smart computer opponent, and draw detection | React.js, JavaScript |
 | [**Calculatorr-Vitee-React**](https://github.com/rahafsaud-glitch/Calculatorr-Vitee-React) | Clean calculator app supporting sum, subtract, multiply and division with a user-friendly UI | React, Vite, JavaScript |
 
